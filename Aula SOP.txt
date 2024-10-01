@@ -1,0 +1,17 @@
+login: teste
+senha: teste123
+
+cd- entra no local desejado de arquivo
+pwd - exibe o diretório atual
+ls- lista os diretórios
+mkdir- cria diretório
+ls -la- exibe arquivos ocultos
+grep --help
+|- and
+||- or
+grep -i Primeira exemplo.txt
+
+pra entrar no seu arquivo: 
+cd ..
+cd Documentos/Isac
+para sair do terminal: exit
